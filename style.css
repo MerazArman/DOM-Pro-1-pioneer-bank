@@ -1,0 +1,43 @@
+.header-dign {
+    margin-top: 8%;
+}
+
+.login-aria {
+    width: 76%;
+    box-shadow: 5px 5px 10px gray;
+    border-radius: 20px;
+    margin-left: 15%;
+    padding: 5%;
+    margin-top: 20px;
+}
+
+.second-part {
+    display: none;
+}
+
+.diposit-dign {
+    background-color: #ff0037;
+}
+
+.withdraw-dign {
+    background-color: deeppink;
+}
+
+.balance-dign {
+    background-color: blueviolet;
+}
+
+.degin-body {
+    padding: 16px;
+    margin: 2%;
+    text-align: center;
+}
+
+.amount-aria {
+    width: 44%;
+    box-shadow: 5px 5px 10px gray;
+    border-radius: 20px;
+    padding: 5%;
+    margin: 2%;
+    margin-top: 20px;
+}
